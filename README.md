@@ -61,7 +61,7 @@ I want to be a software developer in `Python`
     
 - Weaknesses:
 
-    - lazyness 
+    - lazyness
 
 
 
